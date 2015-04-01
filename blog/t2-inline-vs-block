@@ -24,13 +24,15 @@
 
 <div id="content">
 
-  <h1>Living in the Command Line</h1>
+  <h1>Inline Display vs. Block</h1>
 
-  <h4>3/22/2015</h4>
+  <h4>4/1/2015</h4>
 
   <section>
     <p>
-    Using Version Control is truly a marvel of modern computing and the ability to easily edit and make changes to programs while preserving an original copy protects programmers and professionals from the dread of losing their work! Using git makes this process very easy by keeping track of changes and then making them available for staging and commitment. This makes editing existing files easy and fast. By then linking this code remotely to a github repository we can share our code with others and work together to improve it!
+    ![Inline vs Inline Block vs Block](../../../Desktop/block.png "Display types")
+
+    The display properties of different elements in CSS make each one suitable for a different purpose. For example Div is a block element which means by nature it takes up the entire width of a web page without allowing any other elements on the same line; thus forcing other elements below the Div. While span, on the other hand, is an Inline element which means that it only takes up the space that it needs to print its characters. This allows other elements to be placed "in-line" with the span. Inline-Block is a nice feature that combines the elements of both and creates an display "block" but without forcing it to take up the entire width of the page and allowing other blocks to be placed side-by-side.
     </p>
 
 

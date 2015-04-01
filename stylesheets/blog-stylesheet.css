@@ -25,15 +25,16 @@ body { font-family: Arial, Helvetica, sans-serif; }
 #header {
     padding-top: 80px;
 }
-ul#menu {
+.blogroll {
     list-style: none;
     padding-top: 10px;
     padding-bottom: 10px;
+    float: right;
+    width: 20%;
+    height: 100%;
 }
-ul#menu li {
-    float: top;
-    padding-left: 30px;
-    padding-right: 75px;
+.links{
+    border: 2em 2em 2em 2em
 }
 body {
     font-family: Arial, Helvetica, sans-serif;

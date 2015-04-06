@@ -5,7 +5,7 @@ body { font-family: Arial, Helvetica, sans-serif; }
 
 .container {
     width: 800px;
-    margin: 50px auto;
+    margin: 0 auto;
     background: url(../img/Thangka.jpg) repeat-x;
 
 }

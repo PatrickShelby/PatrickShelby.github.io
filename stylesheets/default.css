@@ -20,12 +20,10 @@ body { font-family: Arial, Helvetica, sans-serif; }
 }
 
 #containeda {
-    height: 600px;
-    width: 800px;
+
 }
 #containedb {
-    height: 600px;
-    width: 800px;
+
 }
 #logo h1 {
     text-indent: -9999px;
@@ -50,7 +48,10 @@ body {
     font-family: Arial, Helvetica, sans-serif;
     background: #ebe8e8;
 }
-
+img.resize{
+    width: 540px;
+    height: 400px;
+}
 body p {
     background-color: white;
 }
